@@ -11,6 +11,7 @@
         android:src="@drawable/dog_image" />
 
     <Button
+        android:id="@+id/dogber"
         android:layout_width="68dp"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
@@ -22,7 +23,7 @@
         android:drawableLeft="@drawable/dog_" />
 
     <Button
-        android:id="@+id/btnCamera"
+        android:id="@+id/homeber"
         android:layout_width="74dp"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
